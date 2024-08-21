@@ -40,7 +40,7 @@ const HowItWorks = () => {
                     <br /> A monster win for gaming.
                 </h2>
 
-                <p className="hiw-subtitles">
+                <p className="hiw-subtitle">
                     It's here. The biggest redesign in the history of Apple GPUs.
                 </p>
             </div>
@@ -68,7 +68,7 @@ const HowItWorks = () => {
                     <p className="hiw-text g_fadeIn">
                         A17 Pro is an entirely new class of iPhone chip that delivers our{' '}
                         <span className="text-white">
-                            best graphic performance by far
+                            best graphic performance by far.
                         </span>
                     </p>
 
